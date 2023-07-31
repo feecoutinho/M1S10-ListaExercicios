@@ -1,5 +1,6 @@
 import { useContext, useState } from "react"
 import { MedicamentosContext } from "../../context/MedicamentosContext"
+import "./style.css"
 
 function FormularioNovoMed(){
 

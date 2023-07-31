@@ -2,7 +2,7 @@ import "./style.css"
 
 function Header(){
     return (
-        <h2 className="header"> DevFarma</h2>
+        <h2 className="header"> Corporação Cápsula</h2>
     )
 }
 
